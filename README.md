@@ -22,7 +22,7 @@ module.exports = {
   secretOrKey: "secret"
 };
 ```
-##Install & QuickStart
+## Install & QuickStart
 Afrer cloning repository to this `steps:`
 ```
 > cd Scheduling_Calendar
