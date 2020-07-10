@@ -11,6 +11,7 @@ This project uses the following technologies:
 - [Express](http://expressjs.com/) and [Node](https://nodejs.org/en/) for the backend
 - [MongoDB](https://www.mongodb.com/) for the database
 - [Redux](https://redux.js.org/basics/usagewithreact) for state management between React components
+# Procedure for running the project locally
 
 ## Configuration
 
@@ -23,7 +24,7 @@ module.exports = {
 };
 ```
 ## Install & QuickStart
-Afrer cloning repository to this `steps:`
+Afrer cloning repository folow this `steps:`
 ```
 > cd Scheduling_Calendar
 > npm install
